@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Jafar</h1>
 <h3 align="center">An Android Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1lent18" alt="s1lent18" /></a> </p>
-
 - 🔭 I’m currently working on [ProbStats](https://github.com/s1lent18/ProbStats)
 
 - 🌱 I’m currently learning **Android Development**
