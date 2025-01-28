@@ -3,11 +3,15 @@
 
 - 🔭 I’m currently working on **TasteBuds**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://alijafar.vercel.app/](https://alijafar.vercel.app/)
 
 - 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **alijafar.rajani@gmail.com**
+
+- 📄 Know about my experiences [https://alijafar.vercel.app/](https://alijafar.vercel.app/)
 
 - ⚡ Fun fact about me **Starting projects is my superpower. Finishing them is my kryptonite**
 
