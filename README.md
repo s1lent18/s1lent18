@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TasteBuds**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Spring Boot & Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://alijafar.vercel.app/](https://alijafar.vercel.app/)
 
