@@ -81,11 +81,10 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s1lent18&show_icons=true&locale=en&layout=compact" alt="s1lent18" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=s1lent18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1lent18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1lent18&show_icons=true&locale=en" alt="s1lent18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s1lent18&" alt="s1lent18" /></p>
+<img src="https://streak-stats.demolab.com?user=s1lent18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s1lent18/s1lent18/output/github-snake-dark.svg" />
