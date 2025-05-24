@@ -1,5 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Ali Jafar</h1>
 <h3 align="center">A Software Engineer</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="1000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1lent18&label=Profile%20views&color=2cd416&style=flat-square" alt="s1lent18" /> </p>
 
