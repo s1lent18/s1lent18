@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Ali Jafar</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="1000">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+
+<img align="right" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1lent18&label=Profile%20views&color=2cd416&style=flat-square" alt="s1lent18" /> </p>
 
