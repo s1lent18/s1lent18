@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Gradely**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Android Development**
 
