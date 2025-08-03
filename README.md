@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1lent18&label=Profile%20views&color=2cd416&style=flat-square" alt="s1lent18" /> </p>
 
-- 🔭 I’m currently working on **Gradely**
+- 🔭 I’m currently working on **Mezbaan Backend**
 
 - 🌱 I’m currently learning **Spring Boot**
 
